@@ -1,16 +1,36 @@
-### Hi there 👋
+<p><img src="https://visitcount.itsvg.in/api?id=quentinvvn&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
 
-<!--
-**quentinvvn/quentinvvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bonjour à tous 👋, Je m'appelle Quentin VIVIEN
+Je suis étudiant en CyberSécurité et auto-entrepreneur en développement web.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 Un peu plus sur moi
+INTÉRÊTS : 
+<p> 🤩 Développer mes compétences en développement pour devenir un développeur FullStack 🤩 </p>
+<p> 💻 Nouvelles technologies </p>
+<p> 🖥 Développement de logiciels </p>
+<p> 👨‍🏫 Analyse de données </p>
+
+## 💻 Compétences 
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
+</p>
+<p>
+<img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" style="margin-bottom: 4px;" height="30px">
+</p>
+
+
+
+## 👥 Me contacter 
+<p>
+<a href="https://www.instagram.com/quentinvvn"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.quentin-vivien.fr#contact"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
+
+## 📊 Stats Github
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentinvvn&theme=blue-green"><p>
