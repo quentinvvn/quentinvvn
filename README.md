@@ -1,4 +1,5 @@
-[![](https://visitcount.itsvg.in/api?id=quentinvvn&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<img src="https://visitcount.itsvg.in/api?id=quentinvvn&label=Profile%20Views&color=12&icon=0&pretty=true" />
+
 
 # Bonjour à tous 👋, Je m'appelle Quentin VIVIEN
 Je suis étudiant en CyberSécurité et auto-entrepreneur en développement web.
