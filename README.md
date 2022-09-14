@@ -1,4 +1,4 @@
-<p><img src="https://visitcount.itsvg.in/api?id=quentinvvn&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+[![](https://visitcount.itsvg.in/api?id=quentinvvn&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 # Bonjour à tous 👋, Je m'appelle Quentin VIVIEN
 Je suis étudiant en CyberSécurité et auto-entrepreneur en développement web.
