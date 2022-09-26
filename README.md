@@ -9,7 +9,7 @@ Je suis étudiant en CyberSécurité.
 INTÉRÊTS : 
 <p> 🤩 Développer mes compétences en développement pour devenir un développeur FullStack 🤩 </p>
 <p> 💻 Nouvelles technologies </p>
-<p> 🖥 Développement de logiciels </p>
+<p> 🖥 Sécurité informatique </p>
 <p> 👨‍🏫 Analyse de données </p>
 
 ## 💻 Compétences 
