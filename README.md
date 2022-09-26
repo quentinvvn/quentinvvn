@@ -2,7 +2,7 @@
 
 
 # Bonjour à tous 👋, Je m'appelle Quentin VIVIEN
-Je suis étudiant en CyberSécurité et auto-entrepreneur en développement web.
+Je suis étudiant en CyberSécurité.
 
 
 ## 💫 Un peu plus sur moi
